@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just fooling around with bits and bytes 😄
 
 <!--
 **aamo974/aamo974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
